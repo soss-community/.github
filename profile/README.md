@@ -56,14 +56,14 @@ We do not adjust our licenses for anyone. Not for requests. Not for money.
 Usage requires credit, a mention in your credits, documentation or README that this module/package was used.  
 That is all.
 
-→ [View Module/Package License](/licenses/module_license)
+→ [View Module/Package License](licenses/module_license)
 
 ### Software
 - **Private use**: Use and modify freely for yourself.
 - **Business use**: Use as-is. Modification is not permitted. Why? We build with security in mind. We cannot guarantee the integrity of modified versions used in production environments.
 - **Interfaces**: If you need a connection we have not built yet, feel free to reach out to us. If it makes sense, we will build it with proper auth, documentation and clear scope of what can be queried.
 
-→ [View Software License](/licenses/software_license)
+→ [View Software License](licenses/software_license)
 
 We do not ship ads. Ever. Ads are a security risk. Full stop.
 
