@@ -1,0 +1,113 @@
+SOSS Module & Package License (SOSS-MPL) v1.0
+==============================================
+Copyright (c) 2026 sora7672 & SOSS Community
+Website: https://soss.page
+Organization: https://github.com/soss-community
+
+NOTE: This license may be updated over time.
+Always refer to the latest version at: https://github.com/soss-community
+The version included in this repository was current at time of release.
+
+---
+
+ACCEPTANCE
+
+By incorporating this package or module into your software, code, or project in any form,
+you confirm that you have read and understood the terms of this license.
+Usage constitutes full acceptance of all conditions stated below.
+
+---
+
+1. PERMITTED USE
+
+   This package/module may be used freely by anyone, for private or commercial purposes,
+   subject to the conditions of this license.
+
+2. NO MODIFICATION & DISTRIBUTION
+
+   Modification of the original source files is not permitted.
+   Modified versions of this package/module may not be redistributed in any form.
+
+   Exception: 
+   You may create child classes or wrapper implementations that extend
+   the functionality through inheritance or composition. These must be clearly marked
+   as separate works and must not replace or repackage the original.
+   This exception exists to allow external verification of behavior, if an issue
+   arises in a child class, it can be clearly distinguished from the original.
+
+3. CREDITS & ATTRIBUTION
+
+   Any software, project, or codebase that uses this package/module must clearly
+   credit it in one of the following locations:
+   - A credits section in the README
+   - An About screen or page within the software
+   - Any other clearly visible location within the project documentation
+
+   The credit entry must include:
+   - A link to the SOSS community page: https://soss.page
+   - The name of the module/package (e.g. "taipan-logger")
+   - If multiple SOSS packages/modules are used, all must be listed individually.
+
+4. COMMERCIAL USE
+
+   Commercial use of this package/module is explicitly permitted.
+   In addition to the credit requirement above, commercial users are strongly encouraged
+   to open a discussion on the official GitHub repository with the tag:
+   "Using this package/module for my software"
+   including the name of their software.
+   This will be read and closed by the maintainer.
+   This does not replace the credit requirement.
+
+5. ISSUE REPORTING
+
+   Issues, bugs, and feature requests are managed exclusively via the official
+   GitHub repository of the respective package/module.
+   Before reporting an issue, you must have read the README and documentation,
+   and must understand the intended purpose of the software.
+
+6. SUPPORT
+
+   No official support is provided by the developers or maintainers.
+   If you or your organization wish to offer support for this package/module,
+   including commercial support, you may apply via the SOSS community page:
+   https://soss.page
+   
+   Approved support providers will be listed there publicly.
+   No individual or organization may present themselves as an "official" support
+   provider without being listed on the SOSS community page.
+   
+   Listings may be revoked at any time if quality standards are not maintained.
+   The affected party will be notified and the listing updated accordingly.
+
+7. NO MONETIZATION
+
+   This package/module is not for sale under any circumstances, regardless of the offer.
+   
+   Any new maintainer who takes over this project must agree to the same conditions.
+   Monetization of this package/module by any maintainer is strictly prohibited.
+   
+   In the event of a violation, third parties are entitled to pursue legal action
+   against the maintainer and to seek the appointment of a new maintainer
+   who agrees to these conditions.
+
+8. LEGAL & DISPUTE RESOLUTION
+
+   In the event of a dispute arising from improper use or violation of this license,
+   all legal costs shall be borne by the party found to be in violation.
+   This applies internationally to the extent permitted by applicable law.
+
+9. NO WARRANTY & NO LIABILITY
+
+   This package/module is provided "as is", without warranty of any kind.
+   The maintainers and contributors make no guarantees regarding functionality,
+   fitness for a particular purpose, or absence of errors.
+   
+   We are human, mistakes can happen. We do our best to keep the code clean and reliable,
+   but we accept no liability for any damages, data loss, or other consequences
+   arising from the use of this software.
+
+---
+SOSS-MPL is part of the Sora Open Source Software standard.
+All SOSS-licensed projects must include this license file unchanged.
+Website: https://soss.page
+Organization: https://github.com/soss-community
