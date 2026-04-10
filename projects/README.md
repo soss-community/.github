@@ -15,7 +15,7 @@ This list is updated as new projects are released.
 
 | Name | Description | Language | Status |
 |------|-------------|----------|--------|
-| [`taipan-logger`](../../../taipan-logger/) | GDPR-compliant logging for Python. Secure, lightweight, ready in under 10 minutes per project. | Python | Active |
+| [`taipan-logger`](https://github.com/soss-community/taipan_logger) | GDPR-compliant logging for Python. Secure, lightweight, ready in under 10 minutes per project. | Python | Active |
 
 
 ---
