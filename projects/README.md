@@ -16,6 +16,8 @@ This list is updated as new projects are released.
 | Name | Description | Language | Status |
 |------|-------------|----------|--------|
 | [`taipan-logger`](https://github.com/soss-community/taipan_logger) | GDPR-compliant logging for Python. Secure, lightweight, ready in under 10 minutes per project. | Python | Active |
+| [`ladon-clear-exceptions-n-warnings`](https://github.com/soss-community/ladon_clear_exceptions_n_warnings) | Smarter exceptions and warnings, auto-registered as builtins. Save up to 2/3 LoC on validation. | Python | Active |
+
 
 
 ---
