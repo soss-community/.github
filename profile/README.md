@@ -15,7 +15,7 @@ No matter the offer, we will never sell our software.
 [![License: Software](https://img.shields.io/badge/Software-Custom%20License-green)](#licenses)
 [![Language: Python](https://img.shields.io/badge/Primary%20Language-Python-3776AB?logo=python)](https://python.org)
 [![No PRs](https://img.shields.io/badge/PRs-Not%20Accepted-red)](#contributing)
-<img width=100px height=20 src="https://komarev.com/ghpvc/?username=soss-community&color=763eab&style=flat-square&label=Profile+Views:" />
+<img width=75px height=20 src="https://komarev.com/ghpvc/?username=soss-community&color=763eab&style=flat-round&label=Views:" />
 
 </div>
 
