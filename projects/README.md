@@ -18,6 +18,7 @@ This list is updated as new projects are released.
 | [`taipan-logger`](https://github.com/soss-community/taipan_logger) | GDPR-compliant logging for Python. Secure, lightweight, ready in under 10 minutes per project. | Python | Active |
 | [`ladon-clear-exceptions-n-warnings`](https://github.com/soss-community/ladon_clear_exceptions_n_warnings) | Smarter exceptions and warnings, auto-registered as builtins. Save up to 2/3 LoC on validation. | Python | Active |
 | [`mamba-scan`](https://github.com/soss-community/mamba_scan) | Scan your project once, get per-filetype stats in a markdown file, move on. | Python | Active |
+| [`apep-webservice-forge`](https://github.com/soss-community/apep-webservice-forge) | A Python web framework built on FastAPI and Jinja2 that eliminates boilerplate, enforces clean architecture, and lets you go from idea to working MVP in a single night. | Python | Active |
 
 
 ---
