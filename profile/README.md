@@ -86,7 +86,7 @@ We do accept issues, including ones with code examples. If your idea or code inf
 Even if it came up in a conversation at a meetup.  
 We are human, things slip through, if they do, just reach out.
 
-→ [How to become a community member](/community/README.md)
+→ [How to become a community member](/community/README.md#how-to-get-involved)
 
 ---
 
