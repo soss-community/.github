@@ -44,7 +44,7 @@ Turning ideas and architectures and into working software.
 
 ## Our software
 
-→ [View all projects and packages](/projects/README.md)
+→ [View all projects and packages](https://github.com/soss-community/.github/blob/main/projects/README.md)
 
 ---
 
@@ -57,14 +57,14 @@ We do not adjust our licenses for anyone. Not for requests. Not for money.
 Usage requires credit, a mention in your credits, documentation or README that this module/package was used.  
 That is all.
 
-→ [View Module/Package License](/license/SOSS-MODULE-LICENSE.md)
+→ [View Module/Package License](https://github.com/soss-community/.github/blob/main/license/SOSS-MODULE-LICENSE.md)
 
 ### Software
 - **Private use**: Use and modify freely for yourself.
 - **Business use**: Use as-is. Modification is not permitted. Why? We build with security in mind. We cannot guarantee the integrity of modified versions used in production environments.
 - **Interfaces**: If you need a connection we have not built yet, feel free to reach out to us. If it makes sense, we will build it with proper auth, documentation and clear scope of what can be queried.
 
-→ [View Software License](/license/SOSS-SOFTWARE-LICENSE.md)
+→ [View Software License](https://github.com/soss-community/.github/blob/main/license/SOSS-SOFTWARE-LICENSE.md)
 
 We do not ship ads. Ever. Ads are a security risk. Full stop.
 
@@ -86,7 +86,7 @@ We do accept issues, including ones with code examples. If your idea or code inf
 Even if it came up in a conversation at a meetup.  
 We are human, things slip through, if they do, just reach out.
 
-→ [How to become a community member](/community/README.md#how-to-get-involved)
+→ [How to become a community member](https://github.com/soss-community/.github/blob/main/community/README.md#how-to-get-involved)
 
 ---
 
@@ -101,7 +101,7 @@ religion, politics and personal views have no place in code and software develop
 
 Advertising, purchase and commission requests are ignored.
 
-→ [More about Community](/community/README.md)
+→ [More about Community](https://github.com/soss-community/.github/blob/main/community/README.md)
 
 ---
 
