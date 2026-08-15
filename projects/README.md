@@ -10,7 +10,7 @@ This list is updated as new projects are released.
 
 > Packages and modules require credit on use. A mention in your credits, documentation or README is sufficent.
 
-→ [View Module/Package License](/license/SOSS-MODULE-LICENSE.md)
+→ [View Module/Package License](https://github.com/soss-community/.github/blob/main/license/SOSS-MODULE-LICENSE.md)
 
 
 | Name | Description | Language | Status |
@@ -27,7 +27,7 @@ This list is updated as new projects are released.
 
 > Software may be used as-is. Private modification is permitted. Business modification is not.
 
-→ [View Software License](/license/SOSS-SOFTWARE-LICENSE.md)
+→ [View Software License](https://github.com/soss-community/.github/blob/main/license/SOSS-SOFTWARE-LICENSE.md)
 
 *No software released yet. Check back soon.*
 
@@ -39,4 +39,4 @@ This list is updated as new projects are released.
 
 ---
 
-→ [Back to README](/profile/README.md)
+→ [Back to README](https://github.com/soss-community/.github/blob/main/profile/README.md)
