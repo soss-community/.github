@@ -3,5 +3,5 @@
 # 404 - Not Found!
 
 Just start at the profile page please:  
-[Profile Readme](profile/README.md)
+[Profile Readme](https://github.com/soss-community/.github/blob/main/profile/README.md)
 </div>
