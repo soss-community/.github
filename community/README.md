@@ -125,4 +125,4 @@ Advertising, purchase and commission requests are ignored.
 
 ---
 
-→ [Back to README](/profile/README.md)
+→ [Back to README](https://github.com/soss-community/.github/blob/main/profile/README.md)
