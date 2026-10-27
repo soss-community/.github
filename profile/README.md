@@ -57,7 +57,8 @@ We do not adjust our licenses for anyone. Not for requests. Not for money.
 Usage requires credit, a mention in your credits, documentation or README that this module/package was used.  
 That is all.
 
-→ [View Module/Package License](https://github.com/soss-community/.github/blob/main/license/SOSS-MODULE-LICENSE.md)
+→ [View Module & Package License](https://github.com/soss-community/.github/blob/main/license/SOSS-MODULE-LICENSE.md)
+
 
 ### Software
 - **Private use**: Use and modify freely for yourself.
